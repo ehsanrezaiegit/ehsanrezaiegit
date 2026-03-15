@@ -1,109 +1,108 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ehsan%20Rezaei&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20WordPress%20Expert%20|%20Bot%20Builder&descSize=18&descAlignY=55)
+# Hey there! 👋 I'm Ehsan Rezaie
 
-[![Portfolio](https://img.shields.io/badge/🌐_ehsanrezaee.ir-blue?style=for-the-badge)](https://ehsanrezaee.ir)
-[![Shop](https://img.shields.io/badge/🛍️_plugifly.shop-orange?style=for-the-badge)](https://plugifly.shop)
-[![Demo](https://img.shields.io/badge/🎮_dadon.ir-green?style=for-the-badge)](https://dadon.ir)
-[![Telegram](https://img.shields.io/badge/Telegram-@erz__47-blue?style=for-the-badge&logo=telegram)](https://t.me/erz_47)
-[![Gmail](https://img.shields.io/badge/Gmail-rezaieehsan5-red?style=for-the-badge&logo=gmail)](mailto:rezaieehsan5@gmail.com)
+### Full-Stack Web Developer | AI-Powered Development
 
-![Profile Views](https://komarev.com/ghpvc/?username=ehsanrz81&color=blueviolet&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-plugify--ehsan-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://plugify-ehsan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaieehsan15@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ehsanrezaiegit?style=for-the-badge&logo=github)](https://github.com/ehsanrezaiegit)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🚀 About Me
 
-### 👨‍💻 About Me
-
-```javascript
-{
-  name: "احسان رضایی",
-  age: 23,
-  location: "Iran 🇮🇷",
-  experience: "3+ Years",
-  
-  skills: [
-    "WordPress Plugin Development",
-    "Telegram Bot Building",
-    "Browser Extension Development",
-    "Full-Stack Web Development"
-  ],
-  
-  status: "💼 Available for Freelance & Remote"
-}
-🔥 What I Do
-🔌 WordPress - Custom Plugins & Themes
-🤖 Telegram Bots - Automation & Integration
-🧩 Extensions - Chrome & Firefox Add-ons
-🌐 Web Apps - React, Next.js, Vue, Nuxt, Laravel
-
-<br clear="right"/>
+```yaml
+name: Ehsan Rezaie
+role: Full-Stack Web Developer
+location: Available for Remote Work Worldwide
+experience: 3+ years
+focus: Clean Code | Performance | AI-Assisted Development
+currently_working_on: Building modern web applications
+available_for: Remote & Project-Based Opportunities
+🔭 Currently building modern web applications & automation systems
+🌱 Always learning new technologies and best practices
+🤖 Passionate about AI-assisted development workflows
+💼 Open to remote, project-based opportunities
+📧 Reach me at rezaieehsan15@gmail.com
 🛠️ Tech Stack
+Languages
+JavaScript
+TypeScript
+PHP
+HTML5
+CSS3
+SQL
+Frontend
 React
 Next.js
 Vue.js
 Nuxt.js
-Node.js
-Laravel
-WordPress
-MySQL
-JavaScript
-TypeScript
 TailwindCSS
-Git
-
+Bootstrap
+SASS
+Backend & Databases
+Node.js
+Express.js
+Laravel
+MySQL
+CMS & Platforms
+WordPress
+WooCommerce
+🌟 Featured Projects
+<table> <tr> <td width="50%">
+🔌 Plugify
+Developer Portfolio & Service Platform
+Live Demo
+Modern portfolio showcasing web development
+services and projects with responsive design.
+HTML5 CSS3 JavaScript Netlify
+</td> <td width="50%">
+🌐 Dadon
+Web Platform
+Live Demo
+Full-featured web platform with custom
+functionality and admin panel.
+WordPress PHP MySQL JavaScript
+</td> </tr> <tr> <td width="50%">
+💚 Recoverra
+Web Application
+Live Demo
+Modern web application with clean UI
+and responsive design.
+HTML5 CSS3 JavaScript Netlify
+</td> <td width="50%">
+🛒 E-Commerce Platform
+Digital Product Sales
+Complete e-commerce solution with automated
+license key generation and multiple
+payment gateways.
+WordPress WooCommerce PHP MySQL
+</td> </tr> </table>
 📊 GitHub Stats
-<div align="center"><img width="49%" src="https://github-readme-
-stats.vercel.app/api?username=ehsanrz81&show_icons=true&theme=
-tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&
-icon_color=F8D866" /> <img width="49%" src="https://github-
-readme-stats.vercel.app/api/top-langs/?username=
-ehsanrz81&layout=compact&theme=tokyonight&hide_border
-=true&bg_color=0D1117&title_color=F85D7F" />
-<img src="https://github-readme-streak-stats.herokuapp.com/
-?user=ehsanrz81&theme=tokyonight&hide_border=true&background=
-0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=
-F85D7F" /></div>
-🌟 Portfolio
-Website	Description	Link
-🏠 Personal	Portfolio & Blog	ehsanrezaee.ir
-🛍️ Shop	WordPress Plugins	plugifly.shop
-🎮 Demo	Live Projects	dadon.ir
-🔌 WordPress Development (3+ Years)
-   • Custom Plugins & Themes
-   • WooCommerce Customization
-   • Payment Gateway Integration
-
-🤖 Telegram Bot Development
-   • Business Automation
-   • Payment Integration
-   • Group Management
-
-🧩 Browser Extensions
-   • Chrome Web Store
-   • Firefox Add-ons
-   • Manifest V3
-
-🌐 Full-Stack Development
-   • React/Next.js & Vue/Nuxt
-   • Node.js & Laravel
-   • REST API Design
-📫 Contact Me
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehsanrezaiegit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanrezaiegit&theme=tokyonight&hide_border=true" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanrezaiegit&layout=compact&theme=tokyonight&hide_border=true" width="48%" /></div>
+🏆 GitHub Trophies
 <div align="center">
-Website
+</div>
+📈 Contribution Graph
+Activity Graph
+Let's Connect
+<div align="center">
+💼 Available for remote, project-based opportunities
+If you're looking for a developer who writes
+clean code, delivers on time, and leverages
+AI to work smarter — let's talk!
+Portfolio
 Email
-Telegram
-
-🤝 Open for Freelance & Remote Work
-"Clean Code. Creative Solutions. On Time."
-
+LinkedIn
 </div>
 <div align="center">
-Footer
+👀 Profile Views
 
-⭐ Star my repos if you find them useful!
 
-</div> ```</div>
+⭐ If you find my work helpful, consider giving a star!
+
+</div> ```
