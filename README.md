@@ -86,9 +86,9 @@ WordPress WooCommerce PHP MySQL
 <div align="center"><img src="https://github-readme-stats.vercel.app/
 api?username=ehsanrezaiegit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
  width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/
-?user=ehsanrezaiegit&theme=tokyonight&hide_border=true" width="48%" /><img
+user=ehsanrezaiegit&theme=tokyonight&hide_border=true" width="48%" /><img
 src="https://github-readme-stats.vercel.app/api/top-langs/
-?username=ehsanrezaiegit&layout=compact&theme=tokyonight&hide_border=true"
+username=ehsanrezaiegit&layout=compact&theme=tokyonight&hide_border=true"
  width="48%" /></div>
 🏆 GitHub Trophies
 <div align="center">
