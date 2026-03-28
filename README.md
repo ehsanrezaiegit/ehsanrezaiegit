@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer | AI-Powered Development
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-plugify--ehsan-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://plugify-ehsan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-plugify--ehsan-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://plugifly-ehsan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaieehsan15@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ehsanrezaiegit?style=for-the-badge&logo=github)](https://github.com/ehsanrezaiegit)
