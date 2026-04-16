@@ -19,7 +19,7 @@
 name: Ehsan Rezaie
 role: Full-Stack Web Developer
 location: Available for Remote Work Worldwide
-experience: 3+ years
+experience: 4+ years
 focus: Clean Code | Performance | AI-Assisted Development
 currently_working_on: Building modern web applications
 available_for: Remote & Project-Based Opportunities
