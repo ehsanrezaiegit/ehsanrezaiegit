@@ -54,7 +54,7 @@ WordPress
 WooCommerce
 🌟 Featured Projects
 <table> <tr> <td width="50%">
-🔌 Plugify
+🔌 Plugifly
 Developer Portfolio & Service Platform
 Live Demo
 Modern portfolio showcasing web development
