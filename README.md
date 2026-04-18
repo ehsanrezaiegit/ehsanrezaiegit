@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Ehsan Rezaie
 
-### Full-Stack Web Developer | AI-Powered Development
+# Full-Stack Web Developer | AI-Powered Development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-plugifly--ehsan-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://plugifly-ehsan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
