@@ -68,7 +68,7 @@ Full-featured web platform with custom
 functionality and admin panel.
 WordPress PHP MySQL JavaScript
 </td> </tr> <tr> <td width="50%">
-💚 Recoverra
+✅ Recoverra
 Web Application
 Live Demo
 Modern web application with clean UI
