@@ -1,114 +1,58 @@
 <div align="center">
 
-# Hey there! 👋 I'm Ehsan Rezaie
+# Ehsan Rezaie
 
-# Full-Stack-Web-Developer | AI-Powered Development
+### DevOps & Full-Stack Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-plugifly--ehsan-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://plugifly-ehsan.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaieehsan15@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ehsanrezaiegit?style=for-the-badge&logo=github)](https://github.com/ehsanrezaiegit)
+Kubernetes · Docker · CI/CD · GitOps · Node.js · Laravel · WordPress plugins
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-plugifly.shop-2F5D9B?style=for-the-badge)](https://plugifly.shop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanrezaie-plugifly)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaieehsan15@gmail.com)
 
 </div>
 
 ---
 
-🚀 About Me
+## About me
 
-```yaml
-name: Ehsan Rezaie
-role: Full-Stack Web Developer
-location: Available for Remote Work Worldwide
-experience: 4+ years
-focus: Clean Code | Performance | AI-Assisted Development
-currently_working_on: Building modern web applications
-available_for: Remote & Project-Based Opportunities
-🔭 Currently building modern web applications & automation systems
-🌱 Always learning new technologies and best practices
-🤖 Passionate about AI-assisted development workflows
-💼 Open to remote, project-based opportunities
-📧 Reach me at rezaieehsan15@gmail.com
-🛠️ Tech Stack
-Languages
-JavaScript
-TypeScript
-PHP
-HTML5
-CSS3
-SQL
-Frontend
-React
-Next.js
-Vue.js
-Nuxt.js
-TailwindCSS
-Bootstrap
-SASS
-Backend & Databases
-Node.js
-Express.js
-Laravel
-MySQL
-CMS & Platforms
-WordPress
-WooCommerce
-🌟 Featured Projects
-<table> <tr> <td width="50%">
-🔌 Plugifly
-Developer Portfolio & Service Platform
-Live Demo
-Modern portfolio showcasing web development
-services and projects with responsive design.
-HTML5 CSS3 JavaScript Netlify
-</td> <td width="50%">
-🌐 Dadon
-Web Platform
-Live Demo
-Full-featured web platform with custom
-functionality and admin panel.
-WordPress PHP MySQL JavaScript
-</td> </tr> <tr> <td width="50%">
-✅ Recoverra
-Web Application
-Live Demo
-Modern web application with clean UI
-and responsive design.
-HTML5 CSS3 JavaScript Netlify
-</td> <td width="50%">
-🛒 E-Commerce Platform
-Digital Product Sales
-Complete e-commerce solution with automated
-license key generation and multiple
-payment gateways.
-WordPress WooCommerce PHP MySQL
-</td> </tr> </table>
-📊 GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/
-api?username=ehsanrezaiegit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
- width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/
-user=ehsanrezaiegit&theme=tokyonight&hide_border=true" width="48%" /><img
-src="https://github-readme-stats.vercel.app/api/top-langs/
-username=ehsanrezaiegit&layout=compact&theme=tokyonight&hide_border=true"
- width="48%" /></div>
-🏆 GitHub Trophies
-<div align="center">
-</div>
-📈 Contribution Graph
-Activity Graph
-Let's Connect
-<div align="center">
-💼 Available for remote, project-based opportunities
-If you're looking for a developer who writes
-clean code, delivers on time, and leverages
-AI to work smarter — let's talk!
-Portfolio
-Email
-LinkedIn
-</div>
-<div align="center">
-👀 Profile Views
+I'm a Computer Engineer who combines **DevOps** with **full-stack development**: I build applications and take them all the way to automated, observable deployments.
 
+- 🔧 I build CI/CD pipelines, GitOps delivery to Kubernetes, infrastructure as code and monitoring.
+- 🧩 I develop web apps and WordPress/WooCommerce plugins, with a focus on Persian/RTL and bilingual interfaces.
+- 📝 I document my work with architecture diagrams, runnable instructions and honest limitations.
+- 🤖 I use AI-assisted workflows to move faster without cutting corners.
+- 🌍 Open to freelance and remote opportunities.
 
-⭐ If you find my work helpful, consider giving a star!
+## Featured projects
 
-</div> ```
+| Project | What it is | Stack |
+|---|---|---|
+| [**mini-cloud-platform**](https://github.com/ehsanrezaiegit/mini-cloud-platform) | Local 3-node Kubernetes platform: infrastructure as code, configuration management, custom Helm chart and GitOps. Verified automatic sync from Git and self-healing after a node failure. | OpenTofu, Ansible, Kubernetes (kind), Helm, Argo CD, Docker |
+| [**CI-CD**](https://github.com/ehsanrezaiegit/CI-CD) | Every push runs tests, builds and pushes a Docker image; Argo CD keeps the cluster in sync with Git. | GitHub Actions, Docker, Kubernetes, Argo CD, FastAPI |
+| [**devops-monitoring-lab**](https://github.com/ehsanrezaiegit/devops-monitoring-lab) | Observability lab with alert rules, a Grafana dashboard and an incident simulator. | Prometheus, Alertmanager, Grafana, Docker Compose, Python |
+| [**AOM-agent**](https://github.com/ehsanrezaiegit/AOM-agent) | Multi-agent system (coder, QA, DevOps) with a live dashboard, long-term memory, Docker-sandboxed execution and human approval. | Python, FastAPI, WebSocket, ChromaDB, Docker |
+| [**dentist-system**](https://github.com/ehsanrezaiegit/dentist-system) | Clinic appointment system with patient/doctor/admin roles and conflict-free booking. | Laravel, MySQL/PostgreSQL, Tailwind CSS, Alpine.js |
+| [**cortexwire**](https://github.com/ehsanrezaiegit/cortexwire) | Next.js application used as the workload for the Kubernetes platform above. | Next.js, TypeScript, Docker |
+
+### Plugifly
+
+[**plugifly.shop**](https://plugifly.shop) is my digital products store: 8 documented WordPress/WooCommerce plugins, browser tools and JavaScript libraries (passkey login, Telegram order notifications, rule-based pricing, 3D product viewer, Persian-aware text effects). The store is complete; public sales open once the payment gateway is activated.
+
+## Tech stack
+
+**DevOps & Cloud:** Docker · Kubernetes · Helm · Argo CD · GitHub Actions · OpenTofu/Terraform · Ansible · Prometheus · Alertmanager · Grafana · Linux (Ubuntu, WSL2)
+
+**Backend:** Node.js · Express · FastAPI (Python) · Laravel (PHP) · REST APIs · WebSockets
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS
+
+**Databases:** MySQL · PostgreSQL · MongoDB · SQLite
+
+**CMS & products:** WordPress · WooCommerce · plugin development · Telegram bots
+
+## Let's work together
+
+📧 [rezaieehsan15@gmail.com](mailto:rezaieehsan15@gmail.com) · 🌐 [plugifly.shop](https://plugifly.shop) · 💼 [LinkedIn](https://www.linkedin.com/in/ehsanrezaie-plugifly)
+
+Languages: Persian (native) · English (intermediate) · German (intermediate)
