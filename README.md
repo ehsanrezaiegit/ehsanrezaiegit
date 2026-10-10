@@ -31,13 +31,13 @@ I'm a Computer Engineer who combines **DevOps** with **full-stack development**:
 | [**mini-cloud-platform**](https://github.com/ehsanrezaiegit/mini-cloud-platform) | Local 3-node Kubernetes platform: infrastructure as code, configuration management, custom Helm chart and GitOps. Verified automatic sync from Git and self-healing after a node failure. | OpenTofu, Ansible, Kubernetes (kind), Helm, Argo CD, Docker |
 | [**CI-CD**](https://github.com/ehsanrezaiegit/CI-CD) | Every push runs tests, builds and pushes a Docker image; Argo CD keeps the cluster in sync with Git. | GitHub Actions, Docker, Kubernetes, Argo CD, FastAPI |
 | [**devops-monitoring-lab**](https://github.com/ehsanrezaiegit/devops-monitoring-lab) | Observability lab with alert rules, a Grafana dashboard and an incident simulator. | Prometheus, Alertmanager, Grafana, Docker Compose, Python |
-| [**AOM-agent**](https://github.com/ehsanrezaiegit/AOM-agent) | Multi-agent system (coder, QA, DevOps) with a live dashboard, long-term memory, Docker-sandboxed execution and human approval. | Python, FastAPI, WebSocket, ChromaDB, Docker |
+| [**AOM-agent**](https://github.com/ehsanrezaiegit/AOM-agent) | Multi-agent system (coder, QA, DevOps) that turns a text goal into a single-file web page, with a live dashboard, long-term memory, Docker-sandboxed execution and human approval before deployment. | Python, FastAPI, WebSocket, ChromaDB, Docker |
 | [**dentist-system**](https://github.com/ehsanrezaiegit/dentist-system) | Clinic appointment system with patient/doctor/admin roles and conflict-free booking. | Laravel, MySQL/PostgreSQL, Tailwind CSS, Alpine.js |
-| [**cortexwire**](https://github.com/ehsanrezaiegit/cortexwire) | Next.js application used as the workload for the Kubernetes platform above. | Next.js, TypeScript, Docker |
+| [**cortexwire**](https://github.com/ehsanrezaiegit/cortexwire) | AI & technology news site: MDX articles, full-text search, SEO/sitemap, generated social images and a 3D hero. Also the workload deployed by the Kubernetes platform above. | Next.js 15, React 19, TypeScript, Tailwind CSS, MDX, Netlify |
 
 ### Plugifly
 
-[**plugifly.shop**](https://plugifly.shop) is my digital products store: 8 documented WordPress/WooCommerce plugins, browser tools and JavaScript libraries (passkey login, Telegram order notifications, rule-based pricing, 3D product viewer, Persian-aware text effects). The store is complete; public sales open once the payment gateway is activated.
+[**plugifly.shop**](https://plugifly.shop) is my digital products store with 8 documented products: 5 WordPress/WooCommerce plugins (passkey login, Telegram order notifications, rule-based pricing, 3D product viewer, Persian voice search input), 1 browser extension and 2 JavaScript libraries (card tilt effects, Persian-aware text animations). The store is complete; public sales open once the payment gateway is activated.
 
 ## Tech stack
 
